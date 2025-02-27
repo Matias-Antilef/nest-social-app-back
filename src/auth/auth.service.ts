@@ -9,6 +9,6 @@ export class AuthService {
     return 'Matias inició sesión';
   }
   logout() {
-    return 'Matias inició sesión';
+    return 'User logged out';
   }
 }
